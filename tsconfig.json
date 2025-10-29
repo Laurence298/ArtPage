@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "lib/databaseHelper.js", "lib/databaseHelper.js"  ],
   "exclude": ["node_modules"]
 }
